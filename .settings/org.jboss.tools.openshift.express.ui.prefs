@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=d4ac5fbf82b143b6bdd419c33640fcb4
+org.jboss.tools.openshift.ApplicationName=kitchensink
+org.jboss.tools.openshift.DeployFolder=deployments
+org.jboss.tools.openshift.Domain=mammal
+org.jboss.tools.openshift.RemoteName=origin
+org.jboss.tools.openshift.Username=mcfa77y@gmail.com
