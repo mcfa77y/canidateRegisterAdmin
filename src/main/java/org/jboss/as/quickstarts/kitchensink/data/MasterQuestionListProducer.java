@@ -23,8 +23,7 @@ public class MasterQuestionListProducer {
 
    private List<MasterQuestion> masterQuestions;
 
-   // @Named provides access the return value via the EL variable name "masterQuestions" in the UI (e.g.,
-   // Facelets or JSP view)
+   // @Named provides access the return value via the EL variable name "masterQuestions" in the UI (e.g. Facelets or JSP view
    @Produces
    @Named
    public List<MasterQuestion> getMasterQuestions() {
