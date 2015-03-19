@@ -1,0 +1,11 @@
+.project
+target/*
+.settings/*
+!.settings/.jsdtscope
+.classpath
+configOld
+nb-configuration.xml
+.metadata/src/main/webapp/WEB-INF/faces-config.pageflow
+.settings/.jsdtscope
+src/main/java/resources/application.properties
+src/main/webapp/WEB-INF/jboss-web.xml
